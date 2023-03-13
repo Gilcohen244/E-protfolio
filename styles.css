@@ -832,6 +832,14 @@ input:focus, textarea:focus {
   
   /* Small phones */
   @media (max-width: 480px) {
+    
+        .nav__logo {
+      margin-top: 2px;
+      margin-left: 4px;
+      width: 110px;
+    }
+
+    
     .title {
       font-size: 52px;
     }
