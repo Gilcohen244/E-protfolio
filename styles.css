@@ -788,6 +788,11 @@ input:focus, textarea:focus {
 
   /* Small phones, tablets, large smart phones */
 @media (max-width: 768px) {
+  
+    .modal--open .section__title {
+    margin-top: 140px;
+  }
+  
     .title {
       font-size: 80px;
     }
