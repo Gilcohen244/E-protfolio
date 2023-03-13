@@ -728,7 +728,7 @@ input:focus, textarea:focus {
   /* shapes  */
 
   .shape {
-    position: fixed;
+    position: absolute;
   }
 
   .shape--0 {
